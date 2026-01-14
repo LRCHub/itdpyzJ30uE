@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "3分ガール",
+  "base_artist": "HIMEHINA",
+  "createdAt": "2026-01-14T00:36:29.733099Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "3分ガール",
+      "artist": "HIMEHINA",
+      "has_synced": false,
+      "path": "select/pl_01_3分ガール_HIMEHINA.txt"
+    }
+  ]
+}
